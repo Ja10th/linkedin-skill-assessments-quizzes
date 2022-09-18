@@ -1872,3 +1872,4 @@ if (/* Snipped goes here */){
 - [ ] Boolean("")
 - [ ] Boolean(0)
 - [ ] Boolean(NaN)
+Good luck 
